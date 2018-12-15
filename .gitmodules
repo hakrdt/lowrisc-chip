@@ -1,15 +1,15 @@
 [submodule "fpga"]
         path = fpga
-        url = https://github.com/lowrisc/lowrisc-fpga.git
+        url = https://github.com/hakrdt/lowrisc-fpga.git
 [submodule "rocket-chip"]
 	path = rocket-chip
-	url = https://github.com/lowRISC/rocket-chip
+	url = https://github.com/hakrdt/rocket-chip
 [submodule "riscv-linux"]
 	path = riscv-linux
-	url = https://github.com/lowRISC/riscv-linux.git
+	url = https://github.com/hakrdt/riscv-linux.git
 [submodule "debian-riscv64"]
 	path = debian-riscv64
-	url = https://github.com/lowRISC/debian-riscv64.git
+	url = https://github.com/hakrdt/debian-riscv64.git
 [submodule "qemu"]
 	path = qemu
-	url = https://github.com/lowrisc/qemu.git
+	url = https://github.com/hakrdt/qemu.git
